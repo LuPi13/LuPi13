@@ -1,12 +1,22 @@
-<h3 align="center">광기의 쓰레기통</h3>
-<p align="center">
-</p>
+### 사실 이사람은 코딩보다 영상작업을 더 많이 합니다!
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+>유
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lupi13&show_icons=true&locale=en&layout=compact" alt="lupi13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lupi13&show_icons=true&locale=en" alt="lupi13" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuPi13&show_icons=true&theme=github_dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupi13&" alt="lupi13" /></p>
+
+```java
+public class Introduction {
+    public static Type getType() {
+        return Type.Lunatic;
+    }
+    public static int getIntelligence() {
+        return 2147483647;
+    }
+    public static boolean isInLove() {
+        //sibal
+        return false;
+    }
+}
+```

@@ -3,7 +3,7 @@
 <p align="center"><img src="https://c.tenor.com/Adf2JieCVJQAAAAC/coffin-dance-ricky.gif"></p>
 
 <h2 align="center"><br/>소신발언</h2>
-<p align="center">Tab은 스페이스바 4칸입니다. 반박시 변태로 간주하며, 길가다가 500원 하수구에 빠뜨림</p>
+<p align="center">들여쓰기는 스페이스바 4칸입니다. 반박시 변태로 간주하며, 길가다가 500원 하수구에 빠뜨림</p>
 <br/>
 
 <h1 align="center">자기소개</h1>

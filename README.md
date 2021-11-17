@@ -1,5 +1,7 @@
 <h1 align="center">사실 이사람은 코딩보다 영상작업을 더 많이 합니다!</h1>
 
+<p align="center"><img src="https://c.tenor.com/Adf2JieCVJQAAAAC/coffin-dance-ricky.gif"></p>
+
 <h2 align="center"><br/>소신발언</h2>
 <h4 align="center">Tab은 스페이스바 4칸입니다. 반박시 변태로 간주하며, 길가다가 500원 하수구에 빠뜨림</h4>
 <br/>

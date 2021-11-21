@@ -12,6 +12,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/After Effects-00005B?style=flat&logo=AdobeAfterEffects&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Premiere Pro-00005B?style=flat&logo=AdobePremierePro&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=AdobePhotoShop&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Vegas Pro-000000?style=flat&logo=Sony&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> &nbsp

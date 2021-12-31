@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">사실 이사람은 코딩보다 영상작업을 더 많이 합니다!</h1>
 
 <p align="center"><img src="https://c.tenor.com/Adf2JieCVJQAAAAC/coffin-dance-ricky.gif"></p>
@@ -50,3 +51,6 @@ public class Introduction {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuPi13&theme=github_dark&hide_border=false&layout=compact" />
     <br/>
 </p>
+--!>
+
+뭘봐

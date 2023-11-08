@@ -3,8 +3,8 @@
 <p align="center"><img src="https://c.tenor.com/nmZuZ_yKeaUAAAAC/throw-out-rage.gif"></p>
 
 
-<h2 align="center"><br/>이 사람은 잡혀갔습니다!</h2>
-<p align="center">국방부놈들은 저를 23년 11월 8일까지 가둬놨습니다. 18!</p>
+<h2 align="center"><br/>이 사람은 잡혀갔었습니다!</h2>
+<p align="center">국방부놈들은 저를 23년 11월 8일까지 가둬놨었다가 풀려났습니다! 우효www</p>
 <br/>
 
 <h2 align="center">자기소개</h2>
